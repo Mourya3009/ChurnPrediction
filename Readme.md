@@ -52,7 +52,7 @@ Reveals the strongest churn-influencing factors:
 
 ## 🔥 Project Workflow
 
-```mermaid
+
 flowchart TD
     A[📂 Load Dataset] --> B[🧹 Data Cleaning]
     B --> C[🔠 Encode Categorical Variables]
