@@ -66,8 +66,8 @@ flowchart TD
 
 | Model               | Result                              |
 | ------------------- | ----------------------------------- |
-| Logistic Regression | *(Add Your Score)*                  |
-| Random Forest       | *(Add Your Score)* + Best Performer |
+| Logistic Regression | *0.8086314593980692*                  |
+| Random Forest       | *0.7915956842703009* + Best Performer |
 # High-Risk Customer Output Example
 Customer_Index | Churn_Probability | Prediction
 -----------------------------------------------
