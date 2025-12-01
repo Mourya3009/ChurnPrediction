@@ -52,7 +52,7 @@ Reveals the strongest churn-influencing factors:
 
 ## 🔥 Project Workflow
 
-
+```mermaid
 flowchart TD
     A[📂 Load Dataset] --> B[🧹 Data Cleaning]
     B --> C[🔠 Encode Categorical Variables]
@@ -62,6 +62,8 @@ flowchart TD
     F --> G[📊 Evaluate Model Metrics]
     G --> H[🚨 Predict & Rank Churn Risk]
     H --> I[🧠 Insight Extraction for Business]
+```
+
 | Model               | Result                              |
 | ------------------- | ----------------------------------- |
 | Logistic Regression | *(Add Your Score)*                  |
